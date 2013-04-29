@@ -1,0 +1,7 @@
+This is Arduino code that makes the arduino play the Nyan Cat theme!!
+
+I've only tested this on the Arduino UNO R3. I have no idea if this will work
+without modification on other boards.
+
+Connect one speaker terminal to pin 9 and the other to Ground. Don't forget
+to add a resistor in Series!!
